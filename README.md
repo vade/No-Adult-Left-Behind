@@ -1,2 +1,14 @@
 # No-Adult-Left-Behind
-Thinking about https://twitter.com/_vade/status/1584586026487382018?s=21&amp;t=XC76Ko6jH0WJ9eLCSZNA-A
+
+Inspired by a meme post by @ericnakagawa:
+
+'''Website idea:
+
+You input the year you graduated high school and the website generates a list of outdated "facts" and concepts you were taught in school that have since been disproven.
+
+- @ericnakagawa
+'''
+
+Planning on how to make 'No Adult Left Behind' 
+
+See the wiki for ideas. 
